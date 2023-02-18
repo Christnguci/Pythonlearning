@@ -10,7 +10,8 @@ def move_forward():
 #su dung listen in turtle to create moving using arrows
 screen.listen() 
 screen.onkey(key="space" ,fun=move_forward )
-   
+
+
 screen.exitonclick()   
 #xin chao day la chao day 
 #change git repo direction
