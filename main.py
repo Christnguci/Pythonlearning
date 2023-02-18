@@ -13,3 +13,4 @@ screen.onkey(key="space" ,fun=move_forward )
    
 screen.exitonclick()   
 #xin chao day la chao day 
+#change git repo direction
