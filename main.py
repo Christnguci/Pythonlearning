@@ -6,7 +6,8 @@ screen=Screen()
 
 def move_forward():
     tim.forward(10)
-     
+    
+#su dung listen in turtle to create moving using arrows
 screen.listen() 
 screen.onkey(key="space" ,fun=move_forward )
    
