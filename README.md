@@ -1,2 +1,2 @@
-# Pythonlearning
+# Learningpython
 100ofcodes
