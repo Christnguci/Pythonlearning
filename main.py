@@ -34,6 +34,7 @@ screen.onkey(key="c",fun=clear)
 screen.exitonclick()   
 #xin chao day la chao day 
 #change git repo direction
+#create a Turtles race using Turtle
 from turtle import Turtle,Screen
 screen=Screen()
 screen.setup(width=500,height=400)
